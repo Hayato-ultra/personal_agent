@@ -1,0 +1,29 @@
+{
+  "applications": 
+    {
+      "notepad":{
+      "executable": "notepad.exe",
+      "path": "C:\\Windows\\System32\\notepad.exe"
+    },
+    "calculator":{
+      "executable": "calc.exe",
+      "path": "C:\\Windows\\System32\\calc.exe"
+    },
+    "brave":{
+      "executable":"brave.exe",
+      "path":"C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    },
+    "vs code":{
+      "executable":"code.exe",
+      "path":"C:\\Users\\ROHIT\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    "vlc":{
+      "executable":"vlc.exe",
+      "path":"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"
+    },
+    "discord":{
+      "executable":"discord.exe",
+      "path":"C:\\Users\\ROHIT\\AppData\\Local\\Discord\\Discord.exe"
+    }
+}
+}
